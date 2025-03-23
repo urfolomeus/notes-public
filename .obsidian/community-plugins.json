@@ -1,5 +1,6 @@
 [
   "advanced-cursors",
   "obsidian-tasks-plugin",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-jupyter"
 ]

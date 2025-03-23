@@ -1,4 +1,6 @@
 {
+  "accentColor": "",
   "cssTheme": "Minimal",
-  "monospaceFontFamily": "Dank Mono,Monaco"
+  "monospaceFontFamily": "Dank Mono,Monaco",
+  "theme": "moonstone"
 }
